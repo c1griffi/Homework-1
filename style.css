@@ -4,12 +4,14 @@ h1 {
 
 }
 
-section {
-    background-color: aqua;
-    color:gold;
-}
+
 
 p {
     background-color: blue;
     color: red;
+}
+
+section {
+    background-color: aqua;
+    color:gold;
 }
